@@ -13,6 +13,15 @@ const App = () => {
         >
           The Link
         </Link>
+        <p>
+          <Link
+            to={
+              "https://github.com/briancodex/react-website-v1/tree/master/src"
+            }
+          >
+            Github
+          </Link>
+        </p>
       </h1>
       <Navbar />
       <Home />
