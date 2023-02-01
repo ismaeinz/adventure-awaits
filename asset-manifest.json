@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.77ec1489.css",
-    "main.js": "/react-gh-pages/static/js/main.2156c581.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.77ec1489.css.map": "/react-gh-pages/static/css/main.77ec1489.css.map",
-    "main.2156c581.js.map": "/react-gh-pages/static/js/main.2156c581.js.map"
+    "main.css": "/adventure-awaits/static/css/main.77ec1489.css",
+    "main.js": "/adventure-awaits/static/js/main.2156c581.js",
+    "index.html": "/adventure-awaits/index.html",
+    "main.77ec1489.css.map": "/adventure-awaits/static/css/main.77ec1489.css.map",
+    "main.2156c581.js.map": "/adventure-awaits/static/js/main.2156c581.js.map"
   },
   "entrypoints": [
     "static/css/main.77ec1489.css",
